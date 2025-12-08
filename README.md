@@ -7,7 +7,7 @@
 
 # TurnOff_v2
 
-Linux için basit bir süre ayarlı kapatma / yeniden başlatma aracı . 
+Linux için modern bir süre ayarlı kapatma / yeniden başlatma aracı . 
 
 ## Kurulum
 
