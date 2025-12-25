@@ -27,7 +27,9 @@ Terminalden Kurulum .
 
 *  sudo dpkg -i turnoff-v3.deb
 
-Özellikler
+---------------------------------------------------------------
+
+    Özellikler
 
 İki giriş modu:
 
@@ -35,7 +37,7 @@ Sistem Saati: Belirlediğiniz bir saate gelince işlem yapar .
 
 Geri Sayım: Belirlediğiniz süre sonunda işlem yapar .
 
-
+---------------------------------------------------------------
 
 İşlem seçenekleri:
 
@@ -43,7 +45,7 @@ Bilgisayarı kapatır.
 
 Bilgisayarı yeniden başlatır.
 
-
+---------------------------------------------------------------
 
 Kullanım kolaylığı:
 
@@ -51,7 +53,7 @@ Saat ve dakika girişi için özel sayısal tuş takımı (rakamlar, silme, onay
 
 Klavye desteği (0-9 rakamlar, Backspace, Enter, Esc).
 
-
+---------------------------------------------------------------
 
 Geri sayım ekranı:
 
@@ -59,7 +61,7 @@ Büyük dijital saat gösterimi (kalan süre: ss:dd:ss).
 Renk geçişli dairesel ilerleme çemberi (yüzde dolum, sarı → turuncu → yeşil → kırmızı).
 Kalan süreye göre otomatik renk değişimi.
 
-
+---------------------------------------------------------------
 
 Kontroller:
 
@@ -69,7 +71,7 @@ Beklet / Devam Et (sadece Geri Sayım modunda).
 
 İptal (geri sayımı durdurur ve ayarları sıfırlar).
 
-
+---------------------------------------------------------------
 
 Tema desteği:
 
@@ -79,7 +81,7 @@ Açık (Light) tema.
 
 Seçilen tema uygulama kapatılıp açılsa bile hatırlanır.
 
-
+---------------------------------------------------------------
 
 Diğer özellikler:
 
