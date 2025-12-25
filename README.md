@@ -1,7 +1,7 @@
 ## Ekran Görüntüleri
 
-![Light Tema](LightTema.png)
-![Dark Tema](DarkTema.png)
+![resim1](1.png)
+![resim11](11.png)
 
 
 
