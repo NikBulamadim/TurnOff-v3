@@ -2,7 +2,7 @@
 
 ![resim1](1.png)![resim11](11.png)
 ![resim2](2.png)![resim22](22.png)
-[resim4](4.png)![resim3](3.png)!
+![resim4](4.png)![resim3](3.png)
 
 
 
